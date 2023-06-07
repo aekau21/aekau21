@@ -1,5 +1,5 @@
 ##### 
-Whats up, Im Anson Ekau. Data Science Major at Chaminade Univeristy of Honolulu. 
+Whats up! I'm a Data Science Major currently at Chaminade Univeristy of Honolulu. 
 Email is anson.ekau@student.chaminade.edu
 <!--
 **aekau21/aekau21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
