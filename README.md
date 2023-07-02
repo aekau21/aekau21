@@ -6,6 +6,16 @@ I am an undergraduate student studying Data Science at Chaminade University of H
 
 ---
 
+### 🧰 Languages/Tools
+<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="rstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+<img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+---
+
+
 <details open>
   <summary> 🖥️ Work Experience</summary>
 
@@ -16,14 +26,3 @@ I am excited about the possibilities ahead and look forward to further expanding
 <img width="697.5" alt="Screenshot 2023-07-02 at 9 35 31 AM" src="https://github.com/aekau21/aekau21/assets/125710421/2f715aeb-1a65-4c0d-9408-6163cd6c1ab9">
 <em>SPICE 2023 Poster</em>
 </details>
-
----
-
-### 🧰 Languages/Tools
-<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="rstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-          
-          
