@@ -30,6 +30,8 @@ Since becoming a Data Science undergraduate, I have had the opportunity to work 
 I am excited about the possibilities ahead and look forward to further expanding my knowledge and skills in the field of Data Science.
 
 #
-<img width="697.5" alt="Screenshot 2023-07-02 at 9 35 31 AM" src="https://github.com/aekau21/aekau21/assets/125710421/2f715aeb-1a65-4c0d-9408-6163cd6c1ab9">
+<img width="697.5" alt="Screenshot 2023-07-02 at 9 35 31 AM" alt="Screenshot 2023-07-02 at 10 59 12 AM" src="https://github.com/aekau21/aekau21/assets/125710421/c8d01665-5964-487a-ba6d-b7789ffa183a">
+
 <em>SPICE 2023 Poster</em>
 </details>
+
