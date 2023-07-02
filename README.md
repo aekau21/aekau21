@@ -1,6 +1,6 @@
 # Anson K Ekau
 
-**`Data Science Undergraduate (DS Major at Chadminade University of Honolulu)`**
+**`Data Science Undergraduate (DS Major at Chaminade University of Honolulu)`**
 
 I am an undergraduate student studying Data Science at Chaminade University of Honolulu. I joined the Data Science major in January 2023 after spending two years as a pre-med student with a major in psychology and a goal of attaining a Doctor of Physical Therapy degree(DPT) at A.T. Still University. My transition into this new field has ignited a strong desire to learn and grow, and I am eager to seize any opportunities that come my way.
 
