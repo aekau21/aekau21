@@ -13,6 +13,11 @@ I am an undergraduate student studying Data Science at Chaminade University of H
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+#
+
+### 📥 Contact Me
+Email : anson.ekau@student.chaminade.edu
+
 ---
 
 
@@ -23,6 +28,7 @@ Since becoming a Data Science undergraduate, I have had the opportunity to work 
 
 I am excited about the possibilities ahead and look forward to further expanding my knowledge and skills in the field of Data Science.
 
+#
 <img width="697.5" alt="Screenshot 2023-07-02 at 9 35 31 AM" src="https://github.com/aekau21/aekau21/assets/125710421/2f715aeb-1a65-4c0d-9408-6163cd6c1ab9">
 <em>SPICE 2023 Poster</em>
 </details>
