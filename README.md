@@ -23,7 +23,7 @@ I am an undergraduate student studying Data Science at Chaminade University of H
 #
 
 ### 📥 Contact Me
-Emails : anson.ekau@student.chaminade.edu 
+Emails : anson.ekau@student.chaminade.edu\
          aekau21@gmail.com
 
 
