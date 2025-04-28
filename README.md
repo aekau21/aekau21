@@ -2,8 +2,7 @@
 
 **`Data Science Undergraduate (DS Major at Chaminade University of Honolulu)`**
 
-I am an undergraduate student studying Data Science at Chaminade University of Honolulu. I joined the Data Science major in January 2023 after spending two years as a pre-med student with a major in psychology and a goal of attaining a Doctor of Physical Therapy degree(DPT) at A.T. Still University. My transition into this new field has ignited a strong desire to learn and grow, and I am eager to seize any opportunities that come my way.
-
+I am a recent gradute from Chaminade University of Honolulu with my degree of a Bachelors of Science in Data Science Analytics and Visualizations with a minor in computer science. I currently work for Huntington Ingalls Industries and MC3 Technologies. 
 ---
 
 ### 🧰 Languages/Tools
@@ -45,6 +44,8 @@ Since becoming a Data Science undergraduate, I have had the opportunity to work 
 
 \
 📡 I am also interning with Huntington Ingalls Industries. "HII develops integrated solutions that enable today’s connected, all-domain force. Capabilities include C5ISR systems and operations; the application of AI and machine learning to battlefield decisions; defensive and offensive cyberspace strategies and EW; unmanned autonomous systems; LVC solutions; fleet modernization; and critical nuclear operations." 
+
+I am also interning with MC3 Technologies. 
 
 <img width="300" alt="HII" alt="HII" src="https://github.com/aekau21/aekau21/assets/125710421/60e3e8cf-d575-496b-83c8-4fcbe045d240">
 </details>
